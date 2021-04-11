@@ -1,0 +1,67 @@
+.app {
+  text-align: center;
+  font-family: arial;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.menu {
+  width: 500px;
+  height: 400px;
+  border-radius: 10px;
+  background-color: #8E7C68;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu input, button {
+  width: 300px;
+  height: 50px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.quiz {
+  width: 500px;
+  height: 400px;
+  border-radius: 10px;
+  background-color: #8E7C68;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu, .quiz, .end h1 {
+  color: white;
+}
+
+.end {
+  width: 500px;
+  height: 400px;
+  border-radius: 10px;
+  background-color: #8E7C68;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.question {
+  width: 200px;
+}
+
+h3 {
+  color: #ffffff;
+
+}
