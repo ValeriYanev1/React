@@ -11,14 +11,14 @@ SoftUni ReactJS Project
 -react-redux\
 -react-router-dom\
 -redux\
--redux-thunk\
+-redux-thunk
 
 ## Back-End
--bcryptjs
--bodyParser
--cors
--dotenv
--express
--JsonWebToken
--mongoose
+-bcryptjs\
+-bodyParser\
+-cors\
+-dotenv\
+-express\
+-JsonWebToken\
+-mongoose\
 -nodemon
