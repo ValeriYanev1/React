@@ -1,7 +1,5 @@
-<img src="icon.png" align="right" />
-
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
-
+SoftUni ReactJS Project 
+(https://ibb.co/8dcFR3m)
 ## Examples
 
 
@@ -9,15 +7,3 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 
 ## Tools
-
-
-## Creating GIFs
-
-
-## Get Feedback
-
-
-## Contribute
-
-
-## License
