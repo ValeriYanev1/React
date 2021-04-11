@@ -1,7 +1,7 @@
 SoftUni ReactJS Project 
 
 
-![](https://i.ibb.co/sjF7rh3/Untitled.png)
+![](https://i.ibb.co/26N9Y1B/Untitled2.png)
 
 
 ## Front-End
