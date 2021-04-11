@@ -42,4 +42,11 @@ export default makeStyles((theme) => ({
         display: 'flex',
         alignItems: 'center',
     },
+    logout: {
+        color:'black',
+        background: '#DDC9BC',
+        '&:hover': {
+            background: "#DDC9BC",
+        },
+    }
 }));
