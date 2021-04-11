@@ -5,13 +5,13 @@ SoftUni ReactJS Project
 
 
 ## Front-End
--react
--react-dom
--react-google-login
--react-redux
--react-router-dom
--redux
--redux-thunk
+-react\
+-react-dom\
+-react-google-login\
+-react-redux\
+-react-router-dom\
+-redux\
+-redux-thunk\
 
 ## Back-End
 -bcryptjs
