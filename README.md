@@ -1,5 +1,5 @@
 SoftUni ReactJS Project 
-![React SPA](https://i.ibb.co/hZfpn5g/Untitled.png)
+![React SPA](https://i.ibb.co/sjF7rh3/Untitled.png)
 ## Examples
 
 
