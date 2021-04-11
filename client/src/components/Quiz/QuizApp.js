@@ -12,7 +12,6 @@ const QuizApp = () => {
 
     return (
         <div className='app'>
-            <h1>QuizApp</h1>
 {
     (!user?.result?.name) ? (
         < h2 > Please Sign in.</h2>
