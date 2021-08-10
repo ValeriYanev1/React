@@ -1,4 +1,4 @@
-SoftUni ReactJS Project 
+ReactJS Project 
 
 
 ![](https://i.ibb.co/26N9Y1B/Untitled2.png)
